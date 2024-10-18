@@ -53,3 +53,6 @@
 
 * Why are these technologies appropriate for your solution?
 <b>These technologies enhance accessibility and streamline the diagnostic process, aligning with the company's focus on leveraging technology to improve veterinary care.</b>
+
+## References
+* [Vetology.ai](https://vetology.ai)
