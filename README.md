@@ -1,4 +1,4 @@
-# TITLE
+# AI for pet health
 
 ## Overview and Origin
 
@@ -34,7 +34,8 @@
 
 ## Results
 
-* What has been the business impact of this company so far? <b>Vetology.ai has successfully deployed its solutions in numerous veterinary practices, significantly improving diagnostic turnaround times and accuracy.</b>
+* What has been the business impact of this company so far? 
+ > <b>Vetology.ai has successfully deployed its solutions in numerous veterinary practices, significantly improving diagnostic turnaround times and accuracy.</b>
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Core metrics include diagnostic accuracy, customer adoption rates, and revenue growth. <b>Vetology.ai reports high diagnostic accuracy rates above 90% and increasing adoption among veterinary clinics.</b>
 
