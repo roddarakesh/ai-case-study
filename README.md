@@ -5,7 +5,7 @@
 * Name of company:
   [Vetology.ai](https://vetology.ai)
 
-* When was the company incorporated? <b>2020</b>
+* When was the company incorporated? **2020**
 
 * Who are the founders of the company? 
   <b>The company was founded by a team of veterinarians and technologists, including Dr. Daryl McFarlane.</b>
